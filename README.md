@@ -1,43 +1,18 @@
-<div align="center">
-  <h2>Olá, eu sou o Carlos Eduardo (Cadu)! 👋</h2>
-  <p>Bem-vindo ao meu espaço de código.</p>
-</div>
+<h1 align="centro">Olá 👋, eu sou Carlos Eduardo (Cadu)</h1>
+<h3 align="center">Um apaixonado por tecnologia</h3>
 
-<div align="center">
-  <a href="https://github.com/CarlosDev0410">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDev0410&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDev0410&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosdev0410&label=Profile%20views&color=0e75b6&style=flat" alt="carlosdev0410" /> </p>
 
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosdev0410" alt="carlosdev0410" /></a> </p>
 
-<div align="center"> 
-  <h3>🛠️ Tech Stack</h3>
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="esquerda">
+<a href="https://linkedin.com/in/carlos-eduardo-souza-dev-jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-eduardo-souza-dev-jr" height="30" width="40" /></a>
+</p>
 
-<br>
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="esquerda"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" largura="40" altura="40"/> </um> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" largura="40" altura="40"/> </um> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" largura="40" altura="40"/> </um> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" largura="40" altura="40"/> </um> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" largura="40" altura="40"/> </um> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" largura="40" altura="40"/> </um> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" largura="40" altura="40"/> </um> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" largura="40" altura="40"/> </um> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" largura="40" altura="40"/> </um> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" largura="40" altura="40"/> </um><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" largura="40" altura="40"/> </um> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" largura="40" altura="40"/> </um> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zona/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" largura="40" altura="40"/> </um> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" largura="40" altura="40"/> </um> </p>com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" largura="40" altura="40"/> </um> </p>com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" largura="40" altura="40"/> </um> </p>
 
-<div align="center">
-  <h3>📫 Onde me encontrar</h3>
-  <a href="https://www.instagram.com/_cadusouza01/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-eduardo-souza-dev-jr" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:carloseduardo.dev2022@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdev0410&show_icons=true&locale=en&layout=compact" alt="carlosdev0410" /></p>
 
-<br>
-
-<div align="center">
-  <img src="https://github.com/CarlosDev0410/CarlosDev0410/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" />
-</div>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdev0410&show_icons=true&locale=en" alt="carlosdev0410" /></p>
